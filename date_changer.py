@@ -2,9 +2,9 @@ username='Введите имя пользователя:Сергей'
 print(username)
 title='Введите заголовок заметки:SkillPlace'
 print(title)
-content='Введите описание заметки:Grade1.Этап1:Задание1'
+content='Введите описание заметки:Grade1.Этап1:Задание2'
 print(content)
-status='Введите статус заметки:Задание1'
+status='Введите статус заметки:Задание2'
 print(status)
 created_date='Введите дату создания заметки в формате "день-месяц-год":24-12-2024'
 print(created_date)
